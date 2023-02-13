@@ -1,0 +1,21 @@
+{
+  "name": "pipboy-theme",
+  "displayName": "pipboy-theme",
+  "description": "Theme inspired by the PipBoy of Fallout videogame series",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "PipBoy Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PipBoy Theme-color-theme.json"
+      }
+    ]
+  }
+}
