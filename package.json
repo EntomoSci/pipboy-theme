@@ -3,11 +3,24 @@
   "displayName": "pipboy-theme",
   "description": "Theme inspired by the PipBoy of Fallout videogame series",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:smv7/pipboy-theme.git"
+  },
+  "publisher": "smv7",
   "engines": {
     "vscode": "^1.75.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "vscode",
+    "theme",
+    "dark",
+    "fallout",
+    "pipboy",
+    "monocolor"
   ],
   "contributes": {
     "themes": [
