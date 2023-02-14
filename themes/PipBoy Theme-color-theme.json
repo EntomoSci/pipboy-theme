@@ -259,21 +259,21 @@
 		"name": "operator logical",
 		"scope": "keyword.operator.logical",
 		"settings": {
-			"foreground": "#269157"
+			"foreground": "#3de289"
 		}
 		},
 		{
 		"name": "operator bitwise",
 		"scope": "keyword.operator.bitwise",
 		"settings": {
-			"foreground": "#269157"
+			"foreground": "#3de289"
 		}
 		},
 		{
 		"name": "operator channel",
 		"scope": "keyword.operator.channel",
 		"settings": {
-			"foreground": "#269157"
+			"foreground": "#3de289"
 		}
 		},
 		{
@@ -287,7 +287,7 @@
 		"name": "CSS/SCSS/LESS Operators",
 		"scope": "keyword.operator.css,keyword.operator.scss,keyword.operator.less",
 		"settings": {
-			"foreground": "#269157"
+			"foreground": "#3de289"
 		}
 		},
 		{
@@ -315,7 +315,7 @@
 		"name": "css property-name",
 		"scope": "support.type.vendored.property-name.css",
 		"settings": {
-			"foreground": "#269157"
+			"foreground": "#3de289"
 		}
 		},
 		{
@@ -405,7 +405,7 @@
 		"name": "js dom",
 		"scope": "support.type.object.dom",
 		"settings": {
-			"foreground": "#269157"
+			"foreground": "#3de289"
 		}
 		},
 		{
@@ -419,7 +419,7 @@
 		"name": "keyword.operator",
 		"scope": "keyword.operator.arithmetic,keyword.operator.comparison,keyword.operator.decrement,keyword.operator.increment,keyword.operator.relational",
 		"settings": {
-			"foreground": "#269157"
+			"foreground": "#3de289"
 		}
 		},
 		{
@@ -447,7 +447,7 @@
 		"name": "C type posix-reserved",
 		"scope": "support.type.posix-reserved.c,support.type.posix-reserved.cpp",
 		"settings": {
-			"foreground": "#269157"
+			"foreground": "#3de289"
 		}
 		},
 		{
@@ -468,7 +468,7 @@
 		"name": "python type",
 		"scope": "support.type.python",
 		"settings": {
-			"foreground": "#269157"
+			"foreground": "#3de289"
 		}
 		},
 		{
@@ -524,7 +524,7 @@
 		"name": "Compound Assignment Operators js/ts",
 		"scope": "keyword.operator.assignment.compound.js,keyword.operator.assignment.compound.ts",
 		"settings": {
-			"foreground": "#269157"
+			"foreground": "#3de289"
 		}
 		},
 		{
@@ -701,7 +701,7 @@
 		"name": "Support",
 		"scope": "support.function",
 		"settings": {
-			"foreground": "#269157"
+			"foreground": "#3de289"
 		}
 		},
 		{
@@ -750,7 +750,7 @@
 		"name": "Constant other symbol",
 		"scope": "constant.other.symbol",
 		"settings": {
-			"foreground": "#269157"
+			"foreground": "#3de289"
 		}
 		},
 		{
@@ -961,14 +961,14 @@
 		"name": "Regular Expressions",
 		"scope": "string.regexp",
 		"settings": {
-			"foreground": "#269157"
+			"foreground": "#3de289"
 		}
 		},
 		{
 		"name": "Escape Characters",
 		"scope": "constant.character.escape",
 		"settings": {
-			"foreground": "#269157"
+			"foreground": "#3de289"
 		}
 		},
 		{
@@ -1045,7 +1045,7 @@
 		"name": "Source Json Meta Structure Dictionary Json > Constant Language Json,source Json Meta Structure Array Json > Constant Language Json",
 		"scope": "source.json meta.structure.dictionary.json > constant.language.json,source.json meta.structure.array.json > constant.language.json",
 		"settings": {
-			"foreground": "#269157"
+			"foreground": "#3de289"
 		}
 		},
 		{
@@ -1164,7 +1164,7 @@
 		"name": "php logical/bitwise operator",
 		"scope": "keyword.operator.logical.php,keyword.operator.bitwise.php,keyword.operator.arithmetic.php",
 		"settings": {
-			"foreground": "#269157"
+			"foreground": "#3de289"
 		}
 		},
 		{
@@ -1178,7 +1178,7 @@
 		"name": "php comparison",
 		"scope": "keyword.operator.comparison.php",
 		"settings": {
-			"foreground": "#269157"
+			"foreground": "#3de289"
 		}
 		},
 		{
@@ -1199,7 +1199,7 @@
 		"name": "python function support",
 		"scope": "support.token.decorator.python,meta.function.decorator.identifier.python",
 		"settings": {
-			"foreground": "#269157"
+			"foreground": "#3de289"
 		}
 		},
 		{
@@ -1227,14 +1227,14 @@
 		"name": "constant.language.symbol.ruby",
 		"scope": "constant.language.symbol.ruby",
 		"settings": {
-			"foreground": "#269157"
+			"foreground": "#3de289"
 		}
 		},
 		{
 		"name": "rgb-value",
 		"scope": "rgb-value",
 		"settings": {
-			"foreground": "#269157"
+			"foreground": "#3de289"
 		}
 		},
 		{
@@ -1417,7 +1417,7 @@
 			"keyword.operator.assignment"
 		],
 		"settings": {
-			"foreground": "#269157"
+			"foreground": "#3de289"
 		}
 		},
 		{
@@ -1454,7 +1454,7 @@
 			"support.type.prelude.elm"
 		],
 		"settings": {
-			"foreground": "#269157"
+			"foreground": "#3de289"
 		}
 		},
 		{
@@ -1491,7 +1491,7 @@
 			"entity.other.attribute-name.pseudo-class"
 		],
 		"settings": {
-			"foreground": "#269157"
+			"foreground": "#3de289"
 		}
 		},
 		{
@@ -1518,7 +1518,7 @@
 			"constant.keyword.clojure"
 		],
 		"settings": {
-			"foreground": "#269157"
+			"foreground": "#3de289"
 		}
 		},
 		{
@@ -1652,7 +1652,7 @@
 			"entity.name.class.xi"
 		],
 		"settings": {
-			"foreground": "#269157"
+			"foreground": "#3de289"
 		}
 		},
 		{
@@ -1679,7 +1679,7 @@
 			"keyword.control.xi"
 		],
 		"settings": {
-			"foreground": "#269157"
+			"foreground": "#3de289"
 		}
 		},
 		{
@@ -1812,7 +1812,7 @@
 			"constant.language.symbol.elixir"
 		],
 		"settings": {
-			"foreground": "#269157"
+			"foreground": "#3de289"
 		}
 		},
 		{
@@ -1846,8 +1846,8 @@
 	],
 	"colors": {
 		"foreground": "#3de289",
-		"focusBorder": "#39ff1444",
-		"selection.background": "#020f07",
+		"focusBorder": "#062e15",
+		"selection.background": "#073418",
 		"scrollbar.shadow": "#00000000",
 		"activityBar.foreground": "#3de289",
 		"activityBar.background": "#04210f",
@@ -1863,12 +1863,12 @@
 		"sideBarSectionHeader.border": "#04210f",
 		"sideBarTitle.foreground": "#269157",
 		"sideBar.border": "#3de289",
-		"list.inactiveSelectionBackground": "#37c779",
-		"list.inactiveSelectionForeground": "#04210f",
+		"list.inactiveSelectionBackground": "#062e15",
+		"list.inactiveSelectionForeground": "#3de289",
 		"list.hoverBackground": "#144a2d",
-		"list.hoverForeground": "#37c779",
-		"list.activeSelectionBackground": "#37c779",
-		"list.activeSelectionForeground": "#04210f",
+		"list.hoverForeground": "#3de289",
+		"list.activeSelectionBackground": "#144a2d",
+		"list.activeSelectionForeground": "#3de289",
 		"tree.indentGuidesStroke": "#144a2d",
 		"list.dropBackground": "#144a2d",
 		"list.highlightForeground": "#37c779",
@@ -1925,25 +1925,25 @@
 		"editorCursor.background": "#04210f",
 		"editor.selectionBackground": "#144a2d",
 		"editor.inactiveSelectionBackground": "#0f3621",
-		"editorWhitespace.foreground": "#1d6b40",
-		"editor.selectionHighlightBackground": "#3de28900",
-		"editor.selectionHighlightBorder": "#e2a93d",
+		"editorWhitespace.foreground": "#3de289",
+		"editor.selectionHighlightBackground": "#113d2600",
+		"editor.selectionHighlightBorder": "#269157",
 		"editor.findMatchBackground": "#ffffff00",
-		"editor.findMatchBorder": "#e2a93d",
-		"editor.findMatchHighlightBackground": "#39ff1444",
-		"editor.findMatchHighlightBorder": "#ffffff00",
-		"editor.findRangeHighlightBackground": "#3a3d4166",
+		"editor.findMatchBorder": "#3de289",
+		"editor.findMatchHighlightBackground": "#144a2d00",
+		"editor.findMatchHighlightBorder": "#269157",
+		"editor.findRangeHighlightBackground": "#3a3d4100",
 		"editor.findRangeHighlightBorder": "#ffffff00",
-		"editor.rangeHighlightBackground": "#ffffff0b",
-		"editor.rangeHighlightBorder": "#ffffff00",
+		"editor.rangeHighlightBackground": "#062e15",
+		"editor.rangeHighlightBorder": "#062e1500",
 		"editor.hoverHighlightBackground": "#264f7840",
 		"editor.wordHighlightStrongBackground": "#00497200",
 		"editor.wordHighlightStrongBorder": "#ff000000",
-		"editor.wordHighlightBackground": "#575757b8",
-		"editor.lineHighlightBackground": "#062e15",
-		"editor.lineHighlightBorder": "#062e1500",
+		"editor.wordHighlightBackground": "#144a2d",
+		"editor.lineHighlightBackground": "#062e1500",
+		"editor.lineHighlightBorder": "#062e15",
 		"editorLineNumber.activeForeground": "#3de289",
-		"editorLink.activeForeground": "#c63de2",
+		"editorLink.activeForeground": "#144a2d",
 		"editorIndentGuide.background": "#144a2d",
 		"editorIndentGuide.activeBackground": "#269157",
 		"editorRuler.foreground": "#144a2d",
@@ -1951,7 +1951,7 @@
 		"editorBracketMatch.border": "#e2a93d",
 		"editor.foldBackground": "#264f784d",
 		"editorOverviewRuler.background": "#25252500",
-		"editorOverviewRuler.border": "#7f7f7f4d",
+		"editorOverviewRuler.border": "#062e15",
 		"editorError.foreground": "#f14c4c",
 		"editorError.background": "#B73A3400",
 		"editorError.border": "#ffffff00",
@@ -1980,24 +1980,25 @@
 		"badge.foreground": "#04210f",
 		"terminal.foreground": "#269157",
 		"terminal.selectionBackground": "#144a2d",
-		"terminalCursor.background": "#3de289",
-		"terminalCursor.foreground": "#04210f",
+		"terminal.selectionForeground": "#3de289",
+		"terminalCursor.foreground": "#3de289",
+		"terminalCursor.background": "#04210f",
 		"terminal.border": "#144a2d",
 		"terminal.ansiBlack": "#3de289",
 		"terminal.ansiBlue": "#2472c8",
-		"terminal.ansiBrightBlack": "#666666",
+		"terminal.ansiBrightBlack": "#144a2d",
 		"terminal.ansiBrightBlue": "#3b8eea",
 		"terminal.ansiBrightCyan": "#29b8db",
 		"terminal.ansiBrightGreen": "#3de289",
 		"terminal.ansiBrightMagenta": "#d670d6",
 		"terminal.ansiBrightRed": "#f14c4c",
 		"terminal.ansiBrightWhite": "#e5e5e5",
-		"terminal.ansiBrightYellow": "#f5f543",
+		"terminal.ansiBrightYellow": "#3de289",  // Color of terminal's cmds.
 		"terminal.ansiCyan": "#11a8cd",
 		"terminal.ansiGreen": "#0dbc79",
 		"terminal.ansiMagenta": "#bc3fbc",
 		"terminal.ansiRed": "#cd3131",
-		"terminal.ansiWhite": "#e5e5e5",
+		"terminal.ansiWhite": "#144a2d",  // Background color of "shift + arrow keys" selection on terminal. 
 		"terminal.ansiYellow": "#e5e510",
 		"breadcrumb.background": "#04210f",
 		"breadcrumb.foreground": "#269157",
