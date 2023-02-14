@@ -2,7 +2,7 @@
   "name": "pipboy-theme",
   "displayName": "pipboy-theme",
   "description": "Theme inspired by the PipBoy of Fallout videogame series",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "git@github.com:smv7/pipboy-theme.git"
@@ -27,7 +27,7 @@
       {
         "label": "PipBoy Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/PipBoy Theme-color-theme.json"
+        "path": "./themes/pipboy-green-theme.json"
       }
     ]
   }

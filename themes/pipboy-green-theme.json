@@ -1993,12 +1993,12 @@
 		"terminal.ansiBrightMagenta": "#d670d6",
 		"terminal.ansiBrightRed": "#f14c4c",
 		"terminal.ansiBrightWhite": "#e5e5e5",
-		"terminal.ansiBrightYellow": "#3de289",  // Color of terminal's cmds.
+		"terminal.ansiBrightYellow": "#3de289",
 		"terminal.ansiCyan": "#11a8cd",
 		"terminal.ansiGreen": "#0dbc79",
 		"terminal.ansiMagenta": "#bc3fbc",
 		"terminal.ansiRed": "#cd3131",
-		"terminal.ansiWhite": "#144a2d",  // Background color of "shift + arrow keys" selection on terminal. 
+		"terminal.ansiWhite": "#144a2d",
 		"terminal.ansiYellow": "#e5e510",
 		"breadcrumb.background": "#04210f",
 		"breadcrumb.foreground": "#269157",
