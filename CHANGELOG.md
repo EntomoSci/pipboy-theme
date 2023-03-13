@@ -12,6 +12,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Animated background simulating CTR monitors.
 - Color versions for ambar, white and blue.
 
+## [0.1.0] - 2023-03-12
+
+### Added
+
+- Font configuration in README for inmersive experience.
+
+### Changed
+
+- Theme name displayed in marketplace.
+
 ## [0.0.2] - 2023-02-14
 
 ### Changed
